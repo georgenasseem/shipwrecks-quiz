@@ -1,0 +1,2 @@
+# Shipwrecks quiz
+#### This is a quiz about shipwrecks. There are only 5 questions and they are all hard to answer, but becareful you only have 60 seconds to answer each question. If the time runs out then the naswer will be give. You only have a 5 second break between each question. The game is hosted on a website [here](https://georgenasseem.github.io/shipwrecks-quiz/).
